@@ -116,7 +116,7 @@ int main() {
         {"Lamuru", {"Tinumbu", "BandangXIV", "BandangXV"}},
         {"Tinumbu", {"Bandang", "TinumbuII"}},
         {"BandangXIV", {"Bandang"}},
-        {"TinumbuII", {"Andalas"}},ve
+        {"TinumbuII", {"Andalas"}},
         {"Bandang", {"TinumbuII", "RappoRappo", "VeteranUtara", "MesjidRaya"}},
         {"Andalas", {"Laiya", "Lamputang", "MesjidRaya", "Latimojong"}},
         {"VeteranUtara", {"Bawakaraeng", "Nico", "BuluDua", "Salahutu"}},
